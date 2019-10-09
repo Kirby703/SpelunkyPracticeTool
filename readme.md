@@ -1,6 +1,6 @@
 # Spelunky Practice Tool
 
-I wrote this ~~to learn cheat engine~~ so that I could practice teleporter and close it without restarting the game. 
+eim64 wrote this ~~to learn cheat engine~~ so that he could practice teleporter and close it without restarting the game. 
 With it you can choose which items and level to start on and which type of level it is, 
 making it ideal for boss and special level practice. 
 
