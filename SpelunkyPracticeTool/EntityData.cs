@@ -26,6 +26,7 @@ namespace SpelunkyPracticeTool
             Values = new string[]{
                 $"Address: {Address:X}",
                 $"X: {Memory.ReadFloat(Address+0x30)} Y: {Memory.ReadFloat(Address+0x34)}",
+                $"Layer: {Memory.ReadFloat(Address+0x40)} OrigLayer: {Memory.ReadFloat(Address+0x44)}",
             };
 
             return this;
